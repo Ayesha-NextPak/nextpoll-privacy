@@ -1,1 +1,0 @@
-# nextpoll-privacy
